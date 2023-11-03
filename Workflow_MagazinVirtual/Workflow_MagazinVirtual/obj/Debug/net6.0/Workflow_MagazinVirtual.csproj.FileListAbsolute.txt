@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\Workflow_MagazinVirtual\Workflow_MagazinVirtual\obj\Debug\net6.0\Workflow_MagazinVirtual.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Workflow_MagazinVirtual\Workflow_MagazinVirtual\obj\Debug\net6.0\Workflow_MagazinVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Workflow_MagazinVirtual\Workflow_MagazinVirtual\obj\Debug\net6.0\Workflow_MagazinVirtual.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Workflow_MagazinVirtual\Workflow_MagazinVirtual\obj\Debug\net6.0\Workflow_MagazinVirtual.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Workflow_MagazinVirtual\Workflow_MagazinVirtual\obj\Debug\net6.0\Workflow_MagazinVirtual.csproj.CoreCompileInputs.cache
